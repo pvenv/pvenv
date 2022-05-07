@@ -8,7 +8,7 @@
 * Proficiency in English: reading technical literature, listening to simple speech, minimal speaking skills.
 
 ### About  me:
-* I am an instructor at the Cisco Academy (KAMCHATKA INDUSTRIAL TECHNICAL SCHOOL - CA - 20047096) - at the time of sanctions, the status is frozen.
+* I am an instructor at the Cisco Networking Academy (KAMCHATKA INDUSTRIAL TECHNICAL SCHOOL - CA - 20047096) - at the time of sanctions, the status is frozen.
 * Prepared two students for the Worldskills International 2019 World Championship in Network and System Administration - took second place.
 
 ### My contacts:

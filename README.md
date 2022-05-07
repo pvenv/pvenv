@@ -10,7 +10,7 @@
 ### About  me:
 * I am an instructor at the Cisco Networking Academy (KAMCHATKA INDUSTRIAL TECHNICAL SCHOOL - CA - 20047096) - at the time of sanctions, the status is frozen.
 * Prepared two students for the Worldskills International 2019 World Championship in Network and System Administration - took second place.
-* Since 2022, I’ve been keeping a list of all the books I read. Here’s this year’s list. Here’s the [overview page](https://github.com/pvenv/pvenv/blob/main/Reading%20list.md).
+* Since 2022, I’ve been keeping a list of all the books I read. Here’s the [overview page](https://github.com/pvenv/pvenv/blob/main/Reading%20list.md).
 
 ### My contacts:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/vpotd)

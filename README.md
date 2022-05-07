@@ -1,19 +1,15 @@
 ### Hard skills:
-![gitlab](https://img.shields.io/badge/-gitlab-090909?style=for-the-badge&logo=gitlab&logoColor=E9D54D)
-![github](https://img.shields.io/badge/-github-090909?style=for-the-badge&logo=github&logoColor=white)
-![docker](https://img.shields.io/badge/-docker-090909?style=for-the-badge&logo=docker&logoColor=blue)
-![nginx](https://img.shields.io/badge/-nginx-090909?style=for-the-badge&logo=nginx&logoColor=green)
-<br>
-![django](https://img.shields.io/badge/-django-090909?style=for-the-badge&logo=django&logoColor=green)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-090909?style=for-the-badge&logo=postgresql&logoColor=blue)
-![mysql](https://img.shields.io/badge/-mysql-090909?style=for-the-badge&logo=mysql&logoColor=blue)
-![redis](https://img.shields.io/badge/-redis-090909?style=for-the-badge&logo=redis&logoColor=red)
-<br>
-![html](https://img.shields.io/badge/-html-090909?style=for-the-badge&logo=html&logoColor=white)
-![css](https://img.shields.io/badge/-css-090909?style=for-the-badge&logo=css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
-<br>
-![vscode](https://img.shields.io/badge/-vscode-090909?style=for-the-badge&logo=visualstudiocode&logoColor=blue)
+* Basic understanding of Agile, Scrum and Kanban frameworks.
+* There is an understanding of DevOps methodology and experience with docker, docker-compose.
+* I have experience with Git and some CI/CD experience.
+* Understanding object-oriented constructs and principles.
+* There is little experience with multithreading, queues and asynchrony.
+* Experience with Atlassian products (Jira, Confluence).
+* Proficiency in English: reading technical literature, listening to simple speech, minimal speaking skills.
+
+### About  me:
+* I am an instructor at the Cisco Academy (KAMCHATKA INDUSTRIAL TECHNICAL SCHOOL - CA - 20047096) - at the time of sanctions, the status is frozen.
+* Prepared two students for the Worldskills International 2019 World Championship in Network and System Administration - took second place.
 
 ### My contacts:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/vpotd)

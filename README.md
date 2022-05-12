@@ -9,7 +9,7 @@
 * Понимание объектно-ориентированных конструкций и принципов.
 * Умение работать с парсерами (requests, beautifulsoup, selenium).
 * Есть небольшой опыт работы с многопоточностью, очередями и асинхронностью.
-* Опыт работы с Django, WebSocket (Channels). Небольшой опыт с JSON-RPC и REST. Понимание концепций MVC\MVP. Понимание HTML, CSSь JS.
+* Опыт работы с Django, WebSocket (Channels). Небольшой опыт с JSON-RPC и REST. Понимание концепций MVC\MVP. Понимание HTML, CSS, JS.
 * Есть понимание DevOps методологии и опыт работы с docker, docker-compose.
 * Знание Git и небольшой опыт CI/CD.
 * Базовые знания SQL.

@@ -1,7 +1,7 @@
 ### Готовлюсь к интервью на вакансию Junior python developer
 
 1. [Что нужно знать](interview.md)
-2. [Задачки](interview.md)
+2. [Задачки](https://github.com/pvenv/pvenv/tree/main/puzzles)
 
 ### Личное
 

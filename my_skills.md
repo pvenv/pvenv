@@ -20,3 +20,32 @@
 
 ## Сетевые технологии
 
+### Технологии
+
+* _потом допишу_
+
+### Оборудование
+
+* маршрутизаторы: Nokia, Juniper, Cisco
+* коммутаторы: Huawei, Cisco, Eltex, QTech, SNR, Extreme, ZTE, DLink, TPLink, Топаз, Maipu
+* оптические терминалы: GPON OLT: ZTE, Huawei
+* антенны: Ubiquiti, Infinet, Cambium, Siklu, Intracom (Ultralink)
+* точки доступа: Ruckus, Mikrotik, Huawei
+* голосовые шлюзы: Cisco (+Linksys), Eltex, Grandstream, Audiocodes, комбо NetGear, комбо ZTE
+* IP-телефоны Cisco 79xx
+* разные IP-камеры
+* устройства мониторинга
+* домофоны (DKS, Спутник)
+* голосовые шлюзы
+* TDMoIP (Eltex)
+* оптические приемники Vectra, Volius
+* сервера: rack\blade, СХД
+
+## Сервера
+
+* Linux\Windows (графические\консольные) - установка ОС, установка служб и ролей, их настройка
+* виртуализация: VMWare ESXi, Hyper-v (+SCVMM) и KVM
+
+## Инструменты
+
+* Zabbix, Cacti, Redash, Splunk, NOC, Grafana, SAP

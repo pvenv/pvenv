@@ -1,6 +1,6 @@
 ### About me:
 * My [skills](https://github.com/pvenv/pvenv/blob/main/my_skills.md) and [certificates](https://github.com/pvenv/pvenv/blob/main/my_certificates.md)
-* I am a certified Cisco Academy instructor (KAMCHATSKA PRODUCTION AND TECHNICAL SCHOOL - CA - 20047096) - the status is frozen for the period of sanctions.
+* I am a certified Cisco Academy instructor (KAMCHATSKA PRODUCTION AND TECHNICAL SCHOOL - CA - 20047096).
 * Prepared two students for the Worldskills International 2019 World Championship in Network and System Administration - we took second place.
 * Since the beginning of 2022, I have been keeping a list of all the books I have read. [Overview page](https://github.com/pvenv/pvenv/blob/main/reading-list.md).
 

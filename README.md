@@ -13,7 +13,7 @@
 
 <div align="center">
   <span>
-    <img src="https://github.com/tdakkota/tdakkota/blob/master/gopher.gif" />
+    <img style="width: 10px; height: auto;" src="https://github.com/tdakkota/tdakkota/blob/master/gopher.gif" />
   </span>
   <span>
   <img src="https://github-profile-trophy.vercel.app/?username=pvenv&theme=darkhub&no-bg=true&no-frame=true">

@@ -13,7 +13,7 @@
 
 <div align="center">
   <span>
-    <img style="width: 50px; height: auto;" src="https://github.githubassets.com/images/mona-loading-dark.gif" />
+    <img style="width: 100px; height: auto;" src="https://github.githubassets.com/images/mona-loading-dark.gif" />
   </span>
   <span>
   <img src="https://github-profile-trophy.vercel.app/?username=pvenv&theme=darkhub&no-bg=true&no-frame=true">
